@@ -1,0 +1,13 @@
+------------------------------------------------------------------------------------------
+
+Confidentiality
+
+1- Departments shall take all necessary measures and precautions to guarantee the confidentiality of complaints, related documents and information (traditional and electronic formats and recorded copies).
+
+2- All personnel within the participating eComplain entities dealing with the unified customer eComplain portal should undertake to sign and implement a confidentiality document.
+
+3- Authorized system users must be identified, and access to all details of system users must be controlled.
+
+4- Measures must be taken to ensure stakeholders and concerned entity information and data confidentiality by allowing only authorized staff members to view this information.
+
+------------------------------------------------------------------------------------------
